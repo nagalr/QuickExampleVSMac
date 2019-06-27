@@ -12,6 +12,7 @@ public class ReadAsset : Activity
 
         InputStream input = Assets.Open ("my_asset.txt");
         // add a text line for checking
+        // add another line for checking
     }
 }
 
